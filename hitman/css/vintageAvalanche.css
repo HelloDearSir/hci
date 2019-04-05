@@ -1,0 +1,14 @@
+/* CSS file for font vintageAvalanche */
+@font-face {
+    font-family: "Vintage Avalanche";
+    src: url("../fonts/vintageAvalanche.otf") format("otf");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Vintage Avalanche";
+    src: url("../fonts/vintageAvalanche.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}

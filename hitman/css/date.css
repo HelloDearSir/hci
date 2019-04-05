@@ -1,0 +1,30 @@
+@import url("stuff.css");
+
+#Time  {
+    position: absolute;
+    left: 300px;
+    top: 185px;
+    font-size: 20px;
+}
+
+h2 {
+    position: absolute;
+    left: 150px;
+    top: 170px;
+    font-size: 20px; 
+}
+
+button 
+{ 
+    position: absolute;
+    left: 400px; 
+   width: 100px; 
+    height: 50px;
+    top: 400px;
+    font-size: 16px;
+    
+}
+ button a {text-decoration: none;
+           color: green;
+          
+}
